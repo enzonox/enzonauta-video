@@ -1,12 +1,12 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Curiosidades Nerds",
+      "link": "https://www.youtube.com/user/nerdologia",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Intuição | Nerdologia Ensina 06",
+        "url": "https://www.youtube.com/watch?v=UBTXXI7ZgB0"
       },
       "videos": [
         {
@@ -14,37 +14,41 @@
           "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Intuição | Nerdologia Ensina 06",
+          "url": "https://www.youtube.com/watch?v=UBTXXI7ZgB0"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "De onde vêm os signos | Nerdologia",
+          "url": "https://www.youtube.com/watch?v=az6R9amrNjc"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "ALBERT EINSTEIN - Canal Nostalgia",
+          "url": "https://www.youtube.com/watch?v=gPSk0Xjz0og"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "6 VERDADES ASSUSTADORAS SOBRE O UNIVERSO",
+          "url": "https://www.youtube.com/watch?v=L9YJ0f4qB2E"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "TEORIA DA PIXAR - TODOS OS FILMES ESTÃO CONECTADOS !!",
+          "url": "https://www.youtube.com/watch?v=_QzsMDjG4gk"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "7 ANIMAIS mais ASSUSTADORES do Cinema",
+          "url": "https://www.youtube.com/watch?v=geadv_svc9Q"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Do que a luz é feita?",
+          "url": "https://www.youtube.com/watch?v=7K04QZQ1jsU"
+        },
+        {
+          "titulo": "Buracos Negros Explicados",
+          "url": "https://www.youtube.com/watch?v=GbJJRsS6OR4"
+        }      
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Tecnologia - Desenvolvimento",
       "cor": "#00C86F",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
@@ -52,50 +56,102 @@
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Curso Python #01 - Seja um Programador",
+          "url": "https://www.youtube.com/watch?v=S9uPNppGsGo"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "01 - CONHECENDO O AMBIENTE - C# - TORNE-SE UM PRAGRAMADOR",
+          "url": "https://www.youtube.com/watch?v=sngC8L_SK2w&list=PLEdPHGYbHhlcxWx-_LrVVYZ2RRdqltums"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Clonando interface do Nubank (+ ANIMAÇÕES) com React Native | Diego Fernandes",
+          "url": "https://www.youtube.com/watch?v=DDm0M_rZLJo&t=120s"
         },
         {
           "titulo": "API: Dicionário do Programador",
           "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+        },
+        {
+          "titulo": "Deploy de aplicação NodeJS e ReactJS no Heroku | Diego Fernandes",
+          "url": "https://www.youtube.com/watch?v=-j7vLmBMsEU&t=217s"
         }, 
         {
           "titulo": "Usando Git Direito",
           "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
+        },
+        {
+          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+        },
+        {
+          "titulo": "COMO CRIAR UM WEBSITE DINÂMICO COM PHP",
+          "url": "https://www.youtube.com/watch?v=qqEbKc0Pq8Y"
+        },
+        {
+          "titulo": "Componentização com VanillaJS #AluraMais",
+          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+        },
+        {
+          "titulo": "O que o JavaScript é capaz de fazer? - Curso JavaScript #01",
+          "url": "https://www.youtube.com/watch?v=Ptbk2af68e8"
+        },
+        {
+          "titulo": "Aplicação Web | Entendendo Back-end e Front-end",
+          "url": "https://www.youtube.com/watch?v=EEeLl-M5YmI"
+        },
+        {
+          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
+          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+        },
+        {
+          "titulo": "POR QUE VOCÊ DEVERIA APRENDER PRIMEIRO FRONT END - PRGRAMADOR BR. EP.62",
+          "url": "https://www.youtube.com/watch?v=xeNWtCGtwuY"
+        },
+        {
+          "titulo": "Base para aprender os frameworks",
+          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+        }  
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Canal Nostalgia",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Os melhores vídeos do youtube estão aqui!",
+        "url": "https://www.youtube.com/channel/UCH2VZQBLFTOp6I_qgnBJCuQ"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "AYRTON SENNA - Nostalgia",
+          "url": "https://www.youtube.com/watch?v=mSPdttd3OQA"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "MICHAEL JACKSON - Nostalgia",
+          "url": "https://www.youtube.com/watch?v=HPVv_oIPW9c"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "LOONEY TUNES - Nostalgia",
+          "url": "https://www.youtube.com/watch?v=ESyK5tHrBNs&list=PL0B68A0FAED3573F0&index=16&t=0s"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "SILVIO SANTOS - Nostalgia",
+          "url": "https://www.youtube.com/watch?v=YJcND-d2eqI&list=PL0B68A0FAED3573F0&index=19&t=0s"
+        },
+        {
+          "titulo": "CRASH BANDICOOT - Nostalgia",
+          "url": "https://www.youtube.com/watch?v=u5BSCioDFZg&list=PL0B68A0FAED3573F0&index=26&t=0s"
+        },
+        {
+          "titulo": "Eu, a Patroa e as Crianças - Nostalgia",
+          "url": "https://www.youtube.com/watch?v=4EZFEVGr4cY&list=PL0B68A0FAED3573F0&index=47&t=0s"
+        },
+        {
+          "titulo": "DANÇAS E MUSICAIS - Nostalgia",
+          "url": "https://www.youtube.com/watch?v=RhsnL8yVhhQ&list=PL0B68A0FAED3573F0&index=56&t=1045s"
+        },
+        {
+          "titulo": "Filmes de Ação (BRUCUTUS) - Nostalgia",
+          "url": "https://www.youtube.com/watch?v=JwOvPvc8ZfE&list=PL0B68A0FAED3573F0&index=73&t=0s"
         }
       ]
     },
@@ -104,80 +160,105 @@
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Aves de Rapina | Trailer 2 Legendado",
+          "url": "https://www.youtube.com/watch?v=vzMLBmG2lnc"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Mulan | Trailer 2 Legendado",
+          "url": "https://www.youtube.com/watch?v=LBRJhII2wu8"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Mulher Maravilha 1984 | Trailer Oficial Legendado",
+          "url": "https://www.youtube.com/watch?v=8XrFAXykgoc"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "007 - Sem Tempo Para Morrer | Trailer Oficial Legendado",
+          "url": "https://www.youtube.com/watch?v=FlriFMTIPOg"
+        },
+        {
+          "titulo": "TOP GUN 2 Trailer Brasileiro DUBLADO # 2 (Novo, 2020)",
+          "url": "https://www.youtube.com/watch?v=39Ecx5JnDNU"
+        },
+        {
+          "titulo": "VIÚVA NEGRA Ultimo Trailer Português LEGENDADO # 3 (Novo, 2020)",
+          "url": "https://www.youtube.com/watch?v=HmmrtZHgh6o"
+        },
+        {
+          "titulo": "Velozes e Furiosos 9| Trailer Oficial Legendado",
+          "url": "https://www.youtube.com/watch?v=yw3LOfN7wEU"
+        },
+        {
+          "titulo": "AQUAMAN - Trailer Final",
+          "url": "https://www.youtube.com/watch?v=02S12LD75bc"
         }
+
       ]
     },
     {
       "titulo": "Games",
       "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Marvel's Avengers - Official Story Trailer",
+          "url": "https://www.youtube.com/watch?v=p4gQos9BffI"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "RESIDENT EVIL 8 Official Trailer (2021) Resident Evil Village Game HD",
+          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
         },
         {
           "titulo": "God of War 4",
           "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Assassin's Creed Valhalla - Official Trailer",
+          "url": "https://www.youtube.com/watch?v=ssrNcwxALS4"
         },
         {
           "titulo": "Pokémon Let's Go Pikachu/Eevee",
           "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+        },
+        {
+          "titulo": "Horizon Forbidden West - Announcement Trailer | PS5",
+          "url": "https://www.youtube.com/watch?v=Lq594XmpPBg"
+        },
+        {
+          "titulo": "Cyberpunk 2077 - Official Cinematic Trailer ft. Keanu Reeves | E3 2019",
+          "url": "https://www.youtube.com/watch?v=YApuEWtG30w"
+        },
+        {
+          "titulo": "Marvel's Spider-Man: Miles Morales - Announcement Trailer | PS5",
+          "url": "https://www.youtube.com/watch?v=gHzuHo80U2M"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Podcast",
       "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "FELIPE CASTANHARI – Flow Podcast #172",
+          "url": "https://www.youtube.com/watch?v=WsrFSStbnzw"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "PETER JORDAN - Flow Podcast #156",
+          "url": "https://www.youtube.com/watch?v=jONU1tRzzAw"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Jogos Que DECEPCIONARAM Em 2019 | #Podcast, ft. Smzinho, Visceral e ERA GAMES!",
+          "url": "https://www.youtube.com/watch?v=MXTuqVkBHTI"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "Podcast gamer - Enquanto isso, na sala da justiça #4",
+          "url": "https://www.youtube.com/watch?v=DK-Zr8wFA4s"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "Filmes e Series que Mereciam Outro Final - Podcast #86",
+          "url": "https://www.youtube.com/watch?v=HS-JkwrjvDg"
+        },
+        {
+          "titulo": "Estratégias de autenticação, JWT, OAuth, qual usar? | Podcast FalaDev #21",
+          "url": "https://www.youtube.com/watch?v=mZrt5R9eZzM&list=PL85ITvJ7FLoivA_1YoBrRJbNWajIoR7Os&index=2"
         }
       ]
     }
